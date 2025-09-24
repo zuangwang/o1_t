@@ -24,6 +24,9 @@ o1_t/
 ├── trainers.py             # Federated learning algorithm implementations
 ├── models.py               # Neural network model definitions
 ├── optimizers.py           # Custom optimizers for federated learning
+├── Code_for_Appendix_A_2_1/# Code for Appendix A_2_1
+├── Code_for_Appendix_A_2_2/# Code for Appendix A_2_2
+├── Code_for_Section 5_1/   # Code for Section 5_1
 ├── data/                   # Dataset storage directory
 ├── results/                # Experimental results
 │   ├── cifar10_e3000_homFalse_0_L_2_dir_0.1/
