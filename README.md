@@ -1,6 +1,6 @@
 # Federated Learning Algorithms Comparison
 
-This repository contains implementations and experimental results for comparing various federated learning algorithms on CIFAR-10 and CIFAR-100 datasets under different data heterogeneity settings.
+This repository contains implementations and experimental results for comparing various federated learning algorithms on generated data, CIFAR-10, and CIFAR-100 datasets under different data heterogeneity settings.
 
 ---
 
