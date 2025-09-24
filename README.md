@@ -10,7 +10,7 @@ This project implements and compares four state-of-the-art federated learning al
 - **Scaffnew**: Enhanced SCAFFOLD algorithm with improved convergence properties
 - **FedLin**: Linear federated optimization method
 - **SCAFFOLD**: Communication-efficient federated learning with variance reduction
-- **Fedrcu**: Federated learning with recursive control updates
+- **Algorithm2**: larger stepsize
 
 The experiments evaluate these algorithms under various degrees of data heterogeneity using Dirichlet distribution sampling.
 
