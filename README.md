@@ -132,18 +132,6 @@ Required packages:
 - **matplotlib**: Plotting and visualization
 - **pandas**: Data manipulation and analysis
 
----
-
-## 🔧 Key Features
-
-- **Modular Design**: Easy to add new federated learning algorithms
-- **Flexible Data Distribution**: Support for various non-IID settings
-- **Comprehensive Evaluation**: Training accuracy, test accuracy, and loss tracking
-- **Reproducible Experiments**: Fixed random seeds and consistent experimental setup
-- **Efficient Implementation**: Optimized for multi-client federated learning scenarios
-
----
-
 ## 📊 Performance Metrics
 
 The experiments track three key metrics:
@@ -151,14 +139,3 @@ The experiments track three key metrics:
 2. **Test Accuracy**: Generalization performance on held-out test data
 3. **Loss Values**: Convergence behavior over communication rounds
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please consider:
-- Adding new federated learning algorithms
-- Implementing additional datasets
-- Improving visualization capabilities
-- Enhancing documentation
-
----
