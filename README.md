@@ -24,9 +24,6 @@ o1_t/
 ├── trainers.py             # Federated learning algorithm implementations
 ├── models.py               # Neural network model definitions
 ├── optimizers.py           # Custom optimizers for federated learning
-├── CNN_CGT.py             # CNN model with Compressed Gradient Transfer
-├── plot.py                 # Visualization utilities
-├── test.py                 # Testing utilities
 ├── data/                   # Dataset storage directory
 ├── results/                # Experimental results
 │   ├── cifar10_e3000_homFalse_0_L_2_dir_0.1/
@@ -99,13 +96,6 @@ local_steps = 10             # Local updates per round
 bs = 128                     # Batch size
 L = 2                        # Smoothness parameter
 dir_alpha = 10               # Dirichlet concentration parameter
-```
-
-### Generating Visualizations
-
-Use the plotting utility to generate comparison charts:
-```bash
-python plot.py
 ```
 
 ---
